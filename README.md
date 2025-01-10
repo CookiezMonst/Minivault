@@ -1,4 +1,4 @@
-# Minivault
+# asusfancontrol-fancurves
 Yes, i know it's was ChatGPT and sucks. But it worked.
 
 The code was a script that use asusfancontrol.exe from [] to overwrite the default states of the fans.
